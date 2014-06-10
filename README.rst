@@ -1,3 +1,8 @@
+DJ-Static-Incuna
+================
+
+This is a fork of Kenneth Reitz's DJ-Static to make the pending v0.0.6 changes available for use.
+
 DJ-Static
 =========
 

@@ -34,7 +34,7 @@ from setuptools import setup
 setup(
     name='dj-static-incuna',
     version='0.0.6',
-    url='https://github.com/kennethreitz/dj-static',
+    url='https://github.com/incuna/dj-static',
     license='BSD',
     author='Kenneth Reitz',
     author_email='me@kennethreitz.com',
