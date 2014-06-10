@@ -31,7 +31,7 @@ Usage
 
 ::
 
-    $ pip install dj-static
+    $ pip install dj-static-incuna
 
 Configure your static assets in ``settings.py``::
 

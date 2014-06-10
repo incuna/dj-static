@@ -32,7 +32,7 @@ Then, update your ``wsgi.py`` file to use dj-static::
 from setuptools import setup
 
 setup(
-    name='dj-static',
+    name='dj-static-incuna',
     version='0.0.6',
     url='https://github.com/kennethreitz/dj-static',
     license='BSD',
