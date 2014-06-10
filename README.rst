@@ -2,6 +2,7 @@ DJ-Static-Incuna
 ================
 
 This is a fork of Kenneth Reitz's DJ-Static to make the pending v0.0.6 changes available for use.
+See this `github issue <https://github.com/kennethreitz/dj-static/issues/16>`_ for context.
 
 DJ-Static
 =========
